@@ -1,0 +1,25 @@
+{
+  "name": "erc20-timelock-hardhat",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/applekiwi/erc20-timelock-hardhat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/applekiwi/erc20-timelock-hardhat/issues"
+  },
+  "homepage": "https://github.com/applekiwi/erc20-timelock-hardhat#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-etherscan": "^3.0.4",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "@openzeppelin/contracts": "^4.6.0",
+    "dotenv": "^16.0.1",
+    "ethers": "^5.6.8",
+    "hardhat": "^2.9.7"
+  }
+}
